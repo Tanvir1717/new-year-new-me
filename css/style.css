@@ -105,3 +105,45 @@
 
 
 /* failure-styles */
+
+
+/* plans-styles */
+
+.plans {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 100px 380px;
+}
+
+.plans-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    text-align: center;
+}
+
+.subject-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    padding-bottom: 16px;
+}
+
+.plans img {
+    padding-bottom: 16px;
+}
+
+.subject-description {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+
+/* plans-styles */
