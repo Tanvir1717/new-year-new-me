@@ -113,7 +113,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 20px;
     padding: 100px 380px;
 }
 
@@ -147,3 +147,33 @@
 
 
 /* plans-styles */
+
+
+/* contact-styles */
+
+.contact {
+    padding: 50px 355px;
+}
+
+.contact-contents {
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    /* background-blend-mode: overlay; */
+}
+
+.contact-description {
+    width: 500px;
+    padding: 64px 60px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+
+/* contact-styles */
